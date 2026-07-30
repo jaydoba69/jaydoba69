@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emmm_.67) [![LinkedIn] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaydobariya69@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emmm_.67) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaydobariya69@gmail.com) 
 ---
 
 # 🚀 Tech Stack
